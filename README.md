@@ -15,5 +15,4 @@ population is maintained and the fittest timetables are selected to form the bas
 or iteration. In GA there are three basic operator which are selection, crossover and mutation. This three
 operator is applied to get the best results. The initialization of a population, the evaluation, and the
 genetic operator were implemented and controlled by using programming. The GA will assign course
-in what class, at what time and the instructor involved. Initial population is generated randomly. In the
-figure 1 below shows the genetic algorithm cycles.
+in what class, at what time and the instructor involved. Initial population is generated randomly.
