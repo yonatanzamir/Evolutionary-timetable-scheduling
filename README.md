@@ -1,5 +1,9 @@
-# Evolutionary-timetable-scheduling
-Time table scheduling is a NP hard problem. 
+# Evolutionary-timetable-scheduling - Solving timetable scheduling problem using genetic algorithms
+The scheduling problems are essentially theproblems that deal with effective distribution ofresources.
+During the scheduling process many constraints have to be considered. 
+Resources areusually limited and no two tasks should occupy one particular resource at the same time.
+For most of the scheduling problems it has beenshown that they are NP-hard, and that they can
+not be solved in polynomial time using a deterministic algorithm. 
 This algorithm was tested on small and large instances of the problem. 
 Algorithm performance was significantly enhanced with modification of basic genetic operators.
 
